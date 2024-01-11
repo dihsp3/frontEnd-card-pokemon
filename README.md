@@ -461,13 +461,6 @@ btnVoltar.addEventListener("click", function () {
 
 
 
-## Hospedagem: 
-
-A nossa aplicação está atualmente hospedada no GitPages, um serviço de hospedagem de páginas da web baseado em Git. Com ele, é possível publicar facilmente seus projetos e torná-los acessíveis ao público com apenas alguns cliques. Além disso, o GitPages oferece uma plataforma estável e confiável para que você possa ter certeza de que sua aplicação estará sempre disponível para seus usuários. Não perca mais tempo e experimente!
-
-## Acesso o Link e confira:
-
-https://edvaldoljr.github.io/Projeto-FrontEnd-Card-Pokemon/
 
 # ⭐️ **Deixe um Star** ⭐️
 
